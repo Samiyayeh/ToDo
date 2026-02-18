@@ -24,6 +24,11 @@ A modern, feature-rich To-Do application built with **React**, **Vite**, and **T
 - **Micro-interactions**: Smooth hover effects and transitions.
 - **Responsive Design**: optimized for all screen sizes.
 
+<img width="1915" height="922" alt="Screenshot 2026-02-18 223711" src="https://github.com/user-attachments/assets/956d2b94-064e-45d4-bc67-e8c68c9050c4" />
+
+<img width="1919" height="968" alt="Screenshot 2026-02-18 223648" src="https://github.com/user-attachments/assets/ab60123e-6424-4b33-8b47-158a29c705ec" />
+
+
 ---
 
 ## 🛠️ Tech Stack
@@ -63,11 +68,6 @@ A modern, feature-rich To-Do application built with **React**, **Vite**, and **T
    ```
 
 ---
-UI/UX
-
-<img width="1915" height="922" alt="Screenshot 2026-02-18 223711" src="https://github.com/user-attachments/assets/956d2b94-064e-45d4-bc67-e8c68c9050c4" />
-
-<img width="1919" height="968" alt="Screenshot 2026-02-18 223648" src="https://github.com/user-attachments/assets/ab60123e-6424-4b33-8b47-158a29c705ec" />
 
 ## 🧠 What I Learned
 
