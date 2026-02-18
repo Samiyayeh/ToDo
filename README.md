@@ -5,64 +5,37 @@ This project goes beyond a basic todo list and focuses on mastering core React f
 
 🚀 Features
 ✅ Core Features
-
 Add new tasks
-
 Delete tasks
-
 Mark tasks as completed
-
 Filter tasks:
-
 All
-
 Active
-
 Completed
-
 Task counter
-
 Persistent data using localStorage
-
 Dark mode toggle
 
 ⭐ Bonus Features
-
 Edit existing tasks
-
 Add deadline date
-
 Sort by newest / oldest
-
 Responsive design
 
 🧠 What I Practiced
 
-This project helped me strengthen:
-
+This project helped me strengthen
 useState
-
-useEffect
-
 Component-based architecture
-
-Props & state lifting
-
+state lifting
 Conditional rendering
-
 Controlled inputs
-
 Local storage persistence
 
 UI state management (dark mode & filters)
-
 🏗️ Tech Stack
-
 ⚛️ React (Vite)
-
 🎨 Tailwind CSS
-
 💾 Local Storage API
-
 🧠 Modern JavaScript (ES6+)
 
