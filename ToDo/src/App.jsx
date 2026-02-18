@@ -2,11 +2,11 @@
 import Input from "./input";
 function App() {
 
-return (
-  <>
-  <Input/>
-  
-  </>
+  return (
+    <>
+      <Input />
+
+    </>
   );
 }
 
