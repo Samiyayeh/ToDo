@@ -77,4 +77,4 @@ This project was built to master core React concepts:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](ToDo/LICENSE).
